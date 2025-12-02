@@ -3,7 +3,7 @@
 **Breakout** is a classic arcade game developed in C++ using the Qt 6 framework.
 This project was created as coursework to demonstrate Object-Oriented Programming (OOP) principles, 2D graphics rendering, and event-driven architecture.
 
-![Game Screenshot]
+## Game Screenshot
 <img width="795" height="596" alt="image" src="https://github.com/user-attachments/assets/399cb15f-1cdb-42a5-9640-685a67afcdb5" />
 <img width="800" height="595" alt="image" src="https://github.com/user-attachments/assets/5296d7a8-cf6e-4581-a3d1-65b0350231b1" />
 <img width="798" height="596" alt="image" src="https://github.com/user-attachments/assets/5f4a5035-0f94-4df4-b4a5-c1f1120ff834" />
