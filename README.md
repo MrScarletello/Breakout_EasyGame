@@ -8,6 +8,7 @@ This project was created as coursework to demonstrate Object-Oriented Programmin
 <img width="800" height="595" alt="image" src="https://github.com/user-attachments/assets/5296d7a8-cf6e-4581-a3d1-65b0350231b1" />
 <img width="798" height="596" alt="image" src="https://github.com/user-attachments/assets/5f4a5035-0f94-4df4-b4a5-c1f1120ff834" />
 <img width="799" height="598" alt="image" src="https://github.com/user-attachments/assets/af1f0534-670e-4d64-9512-20c11a34cc93" />
+![Timeline 1](https://github.com/user-attachments/assets/79f9e64c-2326-4c92-8931-5fa82330bede)
 
 ## 🚀 Key Features
 
